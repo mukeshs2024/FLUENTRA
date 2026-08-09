@@ -1,4 +1,4 @@
-setuptools
+setuptools>=70
 fastapi==0.115.0
 uvicorn[standard]==0.30.6
 python-multipart==0.0.9
@@ -9,7 +9,7 @@ transformers==4.45.0
 torch==2.7.1
 sentencepiece==0.2.0
 google-generativeai==0.7.2
-openai-whisper==20240930
+openai-whisper==20250625
 detoxify==0.5.2
 pytesseract==0.3.10
 Pillow==10.4.0
